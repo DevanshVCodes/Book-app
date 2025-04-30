@@ -25,7 +25,9 @@ const App = () => {
           <Route path='/delete' element={<DeleteBook/>} />
         </Routes>
       </Router>
+      Made by Devansh Vashishtha, 2200321540067, CSE(DS)-A
     </div>
+    
   )
 }
 
